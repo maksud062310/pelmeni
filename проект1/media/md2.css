@@ -1,0 +1,54 @@
+@media (max-width: 1241px) {
+    .head {
+        margin-right: 25px;
+    }
+
+    ul {
+        padding-left: 15px;
+    }
+}
+
+@media (max-width: 1225px) {
+    .head {
+        margin-right: 50px;
+    }
+
+    ul {
+        padding: 0 30px;
+    }
+
+    img {
+        margin-left: 25px;
+    }
+
+    h2 {
+        padding-left: 30px;
+    }
+}
+
+@media (max-width: 1155px) {
+    .links {
+        display: none;
+    }
+
+    #bg2 {
+        display: flex;
+    }
+}
+
+
+@media (max-width: 670px) {
+    #nmb {
+        display: none;
+    }
+}
+
+@media (max-width: 450px) {
+    #nmb {
+        display: none;
+    }
+
+    .calls {
+        display: none;
+    }
+}
